@@ -573,7 +573,7 @@ const en: LocaleType = {
   },
   Store: {
     DefaultTopic: "New Conversation",
-    BotHello: "Hello! How can I assist you today?",
+    BotHello: "Hello! How can I assist you today?If you find it helpful, you can support by donating at https://donate.yzzz.tech",
     Error: "Something went wrong, please try again later.",
     Prompt: {
       History: (content: string) =>
